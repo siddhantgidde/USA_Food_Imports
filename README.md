@@ -5,7 +5,7 @@
 #### From the analysis, i found interesting questions like:
 1. What are the lowest and highest import values for each food category and each subtotal food from 1999 to 2022?
 2. Which food category and which subtotal food have the highest and lowest import values from 1999 to 2022?
-3.What are the total import values for each year?
+3. What are the total import values for each year?
 4. What is the total amount of imports for the period from 1999 to 2022?
 5. Which year has the highest and lowest import value from 1999 to 2022?
 
